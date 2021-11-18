@@ -1,0 +1,38 @@
+WEBSITE RENTCAR (PHP NATIVE)
+-> Menggunakan 2 template pada masing-masing actor. Template pada actor admin menggunakan bootstrap 5
+dan template pada actor customer menggunakan bootstrap 4.
+
+AKUN ADMIN :
+Email -> mariobroz@gmail.com
+Password -> 12345
+
+AKUN CUSTOMERS
+Email -> bambangbudiman@gmail.com
+Password -> 12345
+
+NAMA DATABASE
+-> rentcar (Terdapat pada folder Database)
+
+FITUR ADMIN :
+1. Login Admin
+2. Registrasi (registrasi_rahasia.php)
+3. Dashboard
+4. Data Mobil (Berisi fitur CRUD)
+5. Data Customer (Berisi fitur CRUD)
+6. Data Pemilik Mobil (Berisi fitur CRUD)
+7. Ubah Status Pembayaran Sewa Mobil Customers
+8. Ubah Status Pengembalian Mobil
+
+FITUR CUSTOMERS
+1. Login
+2. Registrasi Akun
+3. Halaman Utama (Beranda)
+4. Halaman Galeri Mobil
+   a. Berisi Form Data-data Mobil
+   b. Berisi Form Booking Online Mobil
+   c. Berisi Halaman Informasi tentang Detail Mobil
+5. Halaman Informasi Tentang Kami
+6. Halaman Informasi Akun Saya
+   a. Berisi Riwayat Transaksi Customer Terkait Penyewaan Mobil
+   b. Berisi Form Invoice
+   c. Berisi Tampilan Upload Bukti Pembayaran
